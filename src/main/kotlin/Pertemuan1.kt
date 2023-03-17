@@ -13,6 +13,7 @@ fun main() {
 
 
 //pertemuan 2
+    //1a
 
     var namaLengkap: String = "budianto"
     var alamat: String
@@ -22,4 +23,10 @@ fun main() {
     println(namaLengkap)
     println(alamat)
     println(umur)
+
+    //1b
+    var namaLengkap2 = "Budianto"
+    namaLengkap2 = "Ahmad Budianto"
+
+    println(namaLengkap2)
 }
