@@ -29,4 +29,8 @@ fun main() {
     namaLengkap2 = "Ahmad Budianto"
 
     println(namaLengkap2)
+
+    var bilangan = 100010101010101010
+    println(bilangan::class.qualifiedName)
+
 }
